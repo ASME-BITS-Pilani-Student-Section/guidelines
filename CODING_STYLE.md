@@ -3,15 +3,11 @@
 These guidelines ensure code across the club is **readable, consistent, and maintainable**.
 They are strong recommendations—use judgment where necessary.
 
----
-
 ## Quick Navigation
 
 * [Common Rules](#common-rules-all-languages)
 * [C Guidelines](#c-language-guidelines)
 * [Python Guidelines](#python-coding-guidelines)
-
----
 
 ## Common Rules (All Languages)
 
@@ -45,14 +41,10 @@ They are strong recommendations—use judgment where necessary.
 * Remove unused code and debug prints
 * Ensure code runs/builds before submitting
 
----
-
 ## C Language Guidelines
 
 Reference:
 https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/process/coding-style.rst
-
----
 
 ### Formatting
 
@@ -97,14 +89,10 @@ https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Document
 * Use compiler extensions when helpful
 * Minimize excessive preprocessor usage
 
----
-
 ## Python Coding Guidelines
 
 Reference:
 https://peps.python.org/pep-0008/
-
----
 
 ### Formatting
 
@@ -150,15 +138,8 @@ https://peps.python.org/pep-0008/
 * Prefer built-in features and standard library
 * Avoid overly complex one-liners
 
----
-
 ## Philosophy
 
 * Readability > cleverness
 * Consistency > personal preference
 * Simplicity > complexity
-
----
-
-These guidelines are meant to help—not block progress.
-Use them as a baseline, and apply good judgment when needed.
